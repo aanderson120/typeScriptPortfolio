@@ -1,0 +1,74 @@
+[
+  {
+    "id": "home1",
+    "image": "https://i.imgur.com/JIku1Rv.png",
+    "name": "Dreamy Collector",
+    "description": "An app to track who is on your island and who you want to replace them with.",
+    "skill": "HTML, CSS, JavaScript, Node, Express, Passport.js, Bcrypt.js, Heroku, Sequelize, Animal Crossing NPM",
+    "github": "https://github.com/B-Audette/animal_crossing_dream_island",
+    "site": "http://floating-earth-07738.herokuapp.com/login"
+  },
+  {
+    "id": "home2",
+    "image": "https://i.imgur.com/5rrLDPW.gif",
+    "name": "Pretty Dorky",
+    "description": "A simple RPG where you choose your hero to run through a server farm and battle our coding enemies.",
+    "skill": "React, Firebase/Firestore, MongoDB, Mongoose, Axios, Bootstrap",
+    "github": "https://github.com/LindseyM20/Pretty-Dorky",
+    "site": "https://pretty-dorky.herokuapp.com/"
+  },
+  {
+    "id": 1,
+    "image": "https://i.imgur.com/Nkpc9ko.png",
+    "name": "Weather Dashboard",
+    "description": "Plan your vacation wardrobe easier with the ability to look up the current and extended 5-day forecast for your vacation destination. ",
+    "skill": "HTML, CSS, JavaScript, Bootstrap, Open Weather API ",
+    "github": "https://github.com/aanderson120/WeatherDashboard",
+    "site": "https://aanderson120.github.io/WeatherDashboard/"
+  },
+  {
+    "id": 2,
+    "image": "https://i.imgur.com/YaAF1ck.png",
+    "name": "Forgotten Grotto",
+    "description": "A quick quiz to help you find your way to the Forgotten Grotto. Quiz is timed and has a high scores page to track your progress.",
+    "skill": "HTML, CSS, JavaScript, Bootstrap",
+    "github": "https://github.com/aanderson120/GrottoQuiz",
+    "site": "https://aanderson120.github.io/GrottoQuiz/"
+  },
+  {
+    "id": 3,
+    "image": "https://i.imgur.com/jsSH2UW.png",
+    "name": "Daily Planner",
+    "description": "A calendar app to enter daily appoints and tasks. Dynamically updates with current time and saves using local storage.",
+    "skill": "HTML, CSS, Bootstrap jQuery, Moment.js",
+    "github": "https://github.com/aanderson120/DailyPlanner",
+    "site": "https://aanderson120.github.io/DailyPlanner/"
+  },
+  {
+    "id": 4,
+    "image": "https://i.imgur.com/FYTLS4V.png",
+    "name": "Password Generator",
+    "description": "A randomized password generator where the user inputs parameters and the app returns a password that fits the requirments.",
+    "skill": "HTML, CSS, JavaScript, Bootstrap",
+    "github": "https://aanderson120.github.io/Password-Generator/",
+    "site": "https://aanderson120.github.io/Password-Generator/"
+  },
+  {
+    "id": 6,
+    "image": "https://i.imgur.com/qdjeFQU.png",
+    "name": "Have it Your Way",
+    "description": "An express app that tracks your burger intake and helps you remember your favorites.",
+    "skill": "HTML, CSS, JavaScript, Bootstrap, Handlebars, Express, MySql",
+    "github": "https://github.com/aanderson120/have-it-your-way",
+    "site": "https://have-it-your-way.herokuapp.com/"
+  },
+  {
+    "id": 8,
+    "image": "https://i.imgur.com/jL4fO5x.gif",
+    "name": "Thoughts on Thoughts",
+    "description": "A notetaker app that that will help you remember all those things that fly out of you head as soon as you turn around.",
+    "skill": "HTML, CSS, JavaScript, Bootstrap, Express, Util, UUID",
+    "github": "https://github.com/aanderson120/thoughts-on-thoughts",
+    "site": "https://thoughts-on-thoughts.herokuapp.com/"
+  }
+]

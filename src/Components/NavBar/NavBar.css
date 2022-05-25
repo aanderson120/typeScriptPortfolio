@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap");
+* {
+  font-family: "Dosis", sans-serif;
+}
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.name {
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.navLink {
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+}
+
+.link {
+  margin: 5px;
+  font-size: 30px;
+}
+
+a:link {
+  text-decoration: none;
+}
+/* unvisited link */
+a:link {
+  color: #000;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #262725;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #648f52;
+  text-decoration: none;
+}

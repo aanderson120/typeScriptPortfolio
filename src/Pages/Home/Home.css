@@ -1,0 +1,81 @@
+.aboutContainer {
+  display: flex;
+  justify-content: center;
+}
+.amandaImage {
+  display: flex;
+  border-radius: 160px;
+  max-width: 50%;
+  margin: 2%;
+}
+.aboutText {
+  border-radius: 160px;
+  max-height: 600px;
+  max-width: 600px;
+  background-color: #c2bfbf;
+  padding: 5%;
+  margin: 2%;
+}
+.projects {
+  max-width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.buttonWrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 20px 0 20px 0;
+}
+.portfolioButton {
+  background-color: #648f52;
+  color: #ffffff;
+  box-shadow: 0px 2px 4px #93c47e;
+}
+header {
+  width: 100%;
+  background-color: #262725;
+  color: #ffffff;
+  padding: 30px 0 30px 0;
+  font-weight: 600;
+  font-size: 40px;
+  text-align: center;
+}
+table {
+  width: 100%;
+  padding: 5px;
+}
+tbody {
+  width: inherit;
+}
+tr {
+  border: none;
+  background-color: #fafafabf;
+  height: 55px;
+  width: inherit;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5px;
+}
+tr:hover {
+  background-color: transparent;
+  color: #ffffff;
+}
+td {
+  padding: 5px;
+  font-size: 20px;
+  width: 25px;
+}
+@media only screen and (max-width: 1200px) {
+  .aboutContainer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .aboutText {
+    padding: 10%;
+  }
+  .projects {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

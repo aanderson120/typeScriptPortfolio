@@ -1,0 +1,42 @@
+.icons {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+.icon-github {
+  display: flex;
+  width: 35px;
+  height: 35px;
+  padding: 6px;
+  border-radius: 25%;
+  background-color: #648f52;
+  border-color: #648f52;
+}
+.icon-linkedin {
+  display: flex;
+  width: 35px;
+  height: 35px;
+  padding: 6px;
+  border-radius: 25%;
+  background-color: #648f52;
+  border-color: #648f52;
+}
+.icon-mail {
+  display: flex;
+  width: 45px;
+  height: 35px;
+  padding: 6px;
+  border-radius: 25%;
+  background-color: #648f52;
+  border-color: #648f52;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  width: 100%;
+  background-color: #262725;
+  color: #ffffff;
+  padding: 30px 0 30px 0;
+}
