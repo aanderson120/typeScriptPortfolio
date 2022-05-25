@@ -8,7 +8,7 @@ import Button from "../../Components/Core/Button";
 interface HomeProps {}
 const Home: React.FC<HomeProps> = () => {
   const handleOnClick = () => {
-    window.location.href = "/portfolio";
+    window.location.pathname = "/portfolio";
     return false
   };
   return (
