@@ -7,6 +7,10 @@ import Button from "../../Components/Core/Button";
 
 interface HomeProps {}
 const Home: React.FC<HomeProps> = () => {
+  const handleOnClick = () => {
+    window.location.href = "/portfolio";
+    return false
+  };
   return (
     <div>
       <div className="aboutContainer">
@@ -64,7 +68,7 @@ const Home: React.FC<HomeProps> = () => {
         <Button
           type="submit"
           className="portfolioButton"
-          onClick={() => (window.location.href = "/portfolio")}
+          onClick={handleOnClick}
         >
           SEE FULL PORTFOLIO
         </Button>
