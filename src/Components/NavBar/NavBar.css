@@ -16,7 +16,7 @@
 
 .navLink {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   width: 250px;
 }
 
@@ -50,4 +50,13 @@ a:hover {
 a:active {
   color: #648f52;
   text-decoration: none;
+}
+
+@media only screen and (max-width: 400px) {
+  .name {
+    font-size: 30px;
+  }
+  .link {
+    font-size: 15px;
+  }
 }

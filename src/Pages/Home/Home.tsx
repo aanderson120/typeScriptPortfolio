@@ -75,12 +75,12 @@ const Home: React.FC<HomeProps> = () => {
         <tbody>
           <tr>
             <td>HTML</td>
-            <td>CSS</td>
-            <td>JavaScript</td>
+            <td>TypeScript</td>
             <td>jQuery</td>
+            <td>JavaScript</td>
           </tr>
           <tr>
-            <td>TypeScript</td>
+            <td>CSS</td>
             <td>Bootstrap</td>
             <td>Emotion</td>
             <td>React.js</td>
