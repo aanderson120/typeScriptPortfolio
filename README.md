@@ -6,7 +6,7 @@
 
   ## Deployed Site
   [Amanda Anderson - Portfolio](https://amanda-anderson.netlify.app/)
-  ![portfolio](./public/images/portfolio.png)
+  ![portfolio](./src/public/images/portfolio.png)
 
 
   ## Table of Contents
