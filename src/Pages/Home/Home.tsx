@@ -4,13 +4,10 @@ import photo from "../../public/images/photo.png";
 import Projects from "../../Components/Projects/Projects";
 import projects from "../../projects.json";
 import Button from "../../Components/Core/Button";
+import { Link } from "react-router-dom";
 
 interface HomeProps {}
 const Home: React.FC<HomeProps> = () => {
-  const handleOnClick = () => {
-    window.location.pathname = "/portfolio";
-    return false
-  };
   return (
     <div>
       <div className="aboutContainer">
@@ -68,9 +65,8 @@ const Home: React.FC<HomeProps> = () => {
         <Button
           type="submit"
           className="portfolioButton"
-          onClick={handleOnClick}
         >
-          SEE FULL PORTFOLIO
+          <Link to="/portfolio">SEE FULL PORTFOLIO</Link>{" "}
         </Button>
       </div>
 
