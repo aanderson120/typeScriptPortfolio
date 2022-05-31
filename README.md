@@ -18,7 +18,7 @@
 | [License Information](#license-information) |
     
   ## Technology Used
-  Bootstrap, react, and deployed through Herkou.
+  Bootstrap, react, and deployed through Netlify.
   
   ## Use
   More to come as I continue to learn new technologies and practice my skills
