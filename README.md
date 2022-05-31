@@ -13,7 +13,6 @@
   
 | [Technology Used](#installation) |
 | [Use](#use) |
-| [Contributors](#contributors) |
 | [Test Instructions](#test-instructions) |
 | [License Information](#license-information) |
     
