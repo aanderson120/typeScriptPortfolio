@@ -1,4 +1,4 @@
-# Team Contacts
+# Amanda Anderson Portfolio
   ![GitHub license](https://img.shields.io/badge/license-unlicense-blue.svg)
 
   ## Description
